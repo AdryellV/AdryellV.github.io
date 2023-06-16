@@ -1,6 +1,6 @@
-@import "/projetos/portfolio/css/global.css";
-@import "/projetos/portfolio/css/header.css";
-@import "/projetos/portfolio/css/introducao.css";
-@import "/projetos/portfolio/css/experiencia.css";
-@import "/projetos/portfolio/css/formacao.css";
-@import "/projetos/portfolio/css/footer.css";
+@import "./global.css";
+@import "./header.css";
+@import "./introducao.css";
+@import "./experiencia.css";
+@import "./formacao.css";
+@import "./footer.css";
